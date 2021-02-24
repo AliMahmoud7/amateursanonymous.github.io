@@ -1,6 +1,8 @@
-معلومات أخري | [امثلة علي المبادئ](https://amateursanonymous.github.io/principles-examples)  |[الإجتماعات](https://amateursanonymous.github.io/meetings) | [نبذة عن الجمعية](https://amateursanonymous.github.io/about-us) | [مبادئ الجمعية](https://amateursanonymous.github.io/principles) | [الصفحة الرئيسية](https://amateursanonymous.github.io)
 
-## <center> الإجتماعات السابقة </center>
+| [ تواصل معنا ](https://amateursanonymous.github.io/contact-us) | [ الاسئلة الشائعة](https://amateursanonymous.github.io/faq) | [ معلومات اخرى](https://amateursanonymous.github.io/#) | [   امثلة على المبادئ](https://amateursanonymous.github.io/principles-examples) | [ الاجتماعات](https://amateursanonymous.github.io/meetings) | [ نبذة عن الجمعية](https://amateursanonymous.github.io/about-us) |  [ مبادئ الجمعية](https://amateursanonymous.github.io/principles) | [  الصفحة الرئيسية](https://amateursanonymous.github.io)
+
+
+## <center> الاجتماعات  السابقة </center>
 
 ### <center>الإجتماع الأول (14 نوفمبر 2020)</center>
 <p align="center">
@@ -10,6 +12,11 @@
 ### <center>الإجتماع الثـاني (26 نوفمبر 2020)</center>
 <p align="center">
   <a href="https://youtu.be/aktP_RDeTAc" target="_blank"><img src="http://img.youtube.com/vi/aktP_RDeTAc/0.jpg" alt=" 2 جلسة المنتور او الإرشاد"/></a>
+</p>
+
+### <center>الإجتماع الثالث (21 يناير 2021)</center>
+<p align="center">
+  <a href="https://youtu.be/OWw4UOjTUiU" target="_blank"><img src="http://img.youtube.com/vi/OWw4UOjTUiU/0.jpg" alt=" 3 جلسة المنتور او الإرشاد"/></a>
 </p>
 
 <br><br>
